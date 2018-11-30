@@ -1,0 +1,79 @@
+.navbar{
+	margin: 0 auto;
+	width: 80%;
+}
+.team{
+	text-align: center;
+	margin: 0 auto;
+	width: 70%;
+	margin-bottom: 100px;
+    margin-top: 70px;
+}
+li.list-group-item {
+	text-align: center;
+	background-color: #F2F2F2;  
+}.page{
+	margin-top: 50px;
+
+}.col-2{
+	margin-bottom: 30px;
+}.tr>p{
+	background-color: #F2F2F2;
+	width: max-content;
+    padding: 15px;
+}.tag{
+	margin-bottom: 30px;
+}.tag>button{
+	margin-left: 10px;
+	border-radius: 10%;
+}.tag>button:hover{
+	background-color: #FE642E;
+}.gallery>.row{
+	margin-bottom: 20px;
+}.col-4{
+	padding-left: 0;
+	padding-right: 5px;
+}.footer{
+	background-color: #151515;
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 30px;
+}hr{
+	color: white;
+}.multi>p>i{
+	padding: 5px;
+	border-radius: 100%;
+	margin-right: 10px;
+	color: white;
+}.#last{
+	color: white;
+}.blog2{
+	margin-top: 50px;
+}img{
+	width: 100%;
+}.tag>button:hover{
+	background-color: #FE642E;
+}.month>p:hover{
+	color: #BDBDBD;
+}.tr>p:hover{
+	background-color: #FE642E;
+}.col-10:hover{
+	color: #BDBDBD;
+}.popover{
+	background-color: #FE642E;
+}
+.header-item:hover{
+	color: #FE642E !important;
+}.month>p{
+	display: inline-block;
+}.month>div{
+	display: inline-block;
+	padding-left: 240px;
+}@media(max-width: 575px){
+	.right{
+		padding-left: 30px;
+		width: 80%;
+	}
+	
+}
